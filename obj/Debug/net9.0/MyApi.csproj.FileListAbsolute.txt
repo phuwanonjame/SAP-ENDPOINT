@@ -1,4 +1,3 @@
-D:\sap\MyApi\bin\Debug\net9.0\appsettings.Development.json
 D:\sap\MyApi\bin\Debug\net9.0\appsettings.json
 D:\sap\MyApi\bin\Debug\net9.0\MyApi.staticwebassets.endpoints.json
 D:\sap\MyApi\bin\Debug\net9.0\MyApi.exe
@@ -31,3 +30,4 @@ D:\sap\MyApi\obj\Debug\net9.0\refint\MyApi.dll
 D:\sap\MyApi\obj\Debug\net9.0\MyApi.pdb
 D:\sap\MyApi\obj\Debug\net9.0\MyApi.genruntimeconfig.cache
 D:\sap\MyApi\obj\Debug\net9.0\ref\MyApi.dll
+D:\sap\MyApi\obj\Debug\net9.0\MyApi.sourcelink.json
